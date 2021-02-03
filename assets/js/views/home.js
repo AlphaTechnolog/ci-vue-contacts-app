@@ -1,7 +1,7 @@
 Vue.component('home', {
   template: html`
     <div class='container'>
-      <h3>Contacts</h3>
+      <contacts-title></contacts-title>
       <contacts :contacts='contacts'></contacts>
     </div>
   `,

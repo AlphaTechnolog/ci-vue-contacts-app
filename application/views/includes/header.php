@@ -12,9 +12,15 @@
     <!-- _components -->
     <script src='<?php echo base_url(); ?>assets/js/views/navbar.js'></script>
     <script src='<?php echo base_url(); ?>assets/js/views/home.js'></script>
+    <script src='<?php echo base_url(); ?>assets/js/views/add-contact.js'></script>
     <!-- _components__home -->
+    <script src='<?php echo base_url(); ?>assets/js/components/contacts-title.js'></script>
+    <script src='<?php echo base_url(); ?>assets/js/components/add-contact-button.js'></script>
     <script src='<?php echo base_url(); ?>assets/js/components/contacts.js'></script>
     <script src='<?php echo base_url(); ?>assets/js/components/contact.js'></script>
+    <!-- _components__addContact -->
+    <script src="<?php echo base_url(); ?>assets/js/components/add-contact-title.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/components/add-contact-form.js"></script>
 </head>
 <body>
     <!-- Consts -->

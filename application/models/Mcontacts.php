@@ -19,4 +19,11 @@ class Mcontacts extends CI_Model
 
         return json_encode($contactsList);
     }
+
+    public function add($name, $phone)
+    {
+        $sql = 'INSERT INTO contacts (name, phone) VALUES ("' . $name . '", "' . $phone . '");';
+        $this->db->query($sql);
+        return json_encode(true);
+    }
 }

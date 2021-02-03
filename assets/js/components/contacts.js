@@ -9,13 +9,14 @@ Vue.component('contacts', {
         </tr>
       </thead>
       <tbody>
-        <tr v-if='contacts.length == 0'>
+        <tr v-if='contacts == null'>
           <td :colspan='head.length'>
             Don't have a contacts to show
           </td>
         </tr>
 
         <contact
+          v-else
           v-for='(contact, idx) of contacts'
           :key='idx'
           :contact='contact'
