@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<servicio>
+    <deteccion1>Realizamos inspecciones técnicas para la detección de fugas de agua en:</deteccion1>
+    <deteccion2>&#60;li&#62;Interior de viviendas y edificaciones.&#60;/li&#62;
+                &#60;li&#62;Redes generales.&#60;/li&#62;
+                &#60;li&#62;Piscinas y jacuzzis.&#60;/li&#62;
+                &#60;li&#62;Sistemas de riego.&#60;/li&#62;
+    </deteccion2>
+    <diagnostico>Preparamos un informe detallado donde se indica el lugar exacto de la fuga de agua y los daños ocasionados.
+    </diagnostico>
+    <diagnostico2>&#60;li&#62;Informe digital.&#60;/li&#62;
+                  &#60;li&#62;Informe impreso.&#60;/li&#62;
+    </diagnostico2>
+    <reparacion>Reparación de fugas de agua y refacción del área afectada.
+    </reparacion>
+    <reparacion2>&#60;li&#62;Reparación de tuberías con fugas de agua.&#60;/li&#62;
+                &#60;li&#62;Servicio de plomería y albañilería.&#60;/li&#62;
+                &#60;li&#62;Servicio de pintura en paredes y techos.&#60;/li&#62;
+    </reparacion2>
+</servicio>

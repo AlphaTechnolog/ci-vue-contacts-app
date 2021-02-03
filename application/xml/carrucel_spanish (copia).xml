@@ -1,0 +1,46 @@
+<carrucel>
+    <item>
+        <imagen>slider1</imagen>
+        <texto1>Detección y Reparación con</texto1>
+        <texto2>calidad y precisión</texto2>
+        <imagen_smartphone>slider1 Smartphone</imagen_smartphone>
+        <texto1_smartphone>Detección y Reparación con</texto1_smartphone>
+        <texto2_smartphone>calidad y precisión</texto2_smartphone>
+    </item>
+    <item>
+        <imagen>slider2</imagen>
+        <texto1>¿Tienes una fuga de agua?</texto1>
+        <texto2>Nosotros nos encargamos</texto2>
+        <imagen_smartphone>slider2 Smartphone</imagen_smartphone>
+        <texto1_smartphone>¿Tienes una fuga de agua?</texto1_smartphone>
+        <texto2_smartphone>Nosotros nos encargamos</texto2_smartphone>
+    </item>
+    <item>
+        <imagen>slider3</imagen>
+        <texto1>Raparamos fugas de agua</texto1>
+        <texto2>sin dejar rastros</texto2>
+        <imagen_smartphone>slider3 Smartphone</imagen_smartphone>
+        <texto1_smartphone>Raparamos fugas de agua</texto1_smartphone>
+        <texto2_smartphone>sin dejar rastros</texto2_smartphone>
+    </item>
+</carrucel>
+<carrucel>
+        <imagen1>panafugas1</imagen1>
+        <texto1>Detección y Reparación con</texto1>
+        <texto2>calidad y precisión</texto2>
+        <imagen1_smartphone>slider1_smartphone</imagen1_smartphone>
+        <texto1_smartphone>Detección y Reparación con</texto1_smartphone>
+        <texto2_smartphone>calidad y precisión</texto2_smartphone>
+        <imagen2>panafugas2</imagen>
+        <texto3>¿Tienes una fuga de agua?</texto3>
+        <texto4>Nosotros nos encargamos</texto4>
+        <imagen2_smartphone>slider2_smartphone</imagen2_smartphone>
+        <texto3_smartphone>¿Tienes una fuga de agua?</texto3_smartphone>
+        <texto4_smartphone>Nosotros nos encargamos</texto4_smartphone>
+        <imagen3>panafugas3</imagen3>
+        <texto5>Raparamos fugas de agua</texto5>
+        <texto6>sin dejar rastros</texto6>
+        <imagen3_smartphone>slider3_smartphone</imagen3_smartphone>
+        <texto5_smartphone>Raparamos fugas de agua</texto5_smartphone>
+        <texto6_smartphone>sin dejar rastros</texto6_smartphone>
+</carrucel>

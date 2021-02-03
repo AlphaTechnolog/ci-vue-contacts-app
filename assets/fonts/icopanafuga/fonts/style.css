@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'icopanafuga';
+  src:  url('icopanafuga.eot?9sxdxm');
+  src:  url('icopanafuga.eot?9sxdxm#iefix') format('embedded-opentype'),
+    url('icopanafuga.ttf?9sxdxm') format('truetype'),
+    url('icopanafuga.woff?9sxdxm') format('woff'),
+    url('icopanafuga.svg?9sxdxm#icopanafuga') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icopanafuga' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-LogoFontPanafugas:before {
+  content: "\e800";
+}

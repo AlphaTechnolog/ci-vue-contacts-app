@@ -1,0 +1,1 @@
+const html = _ => _[0] // -> This is for use the html js extension in vscode.

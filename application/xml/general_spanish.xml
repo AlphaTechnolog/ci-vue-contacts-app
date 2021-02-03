@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<general>
+    <empresa>Panafugas</empresa>
+    <logo>logo_panafugas.png</logo>
+    <color1>#4c545d</color1>
+    <color2>#4287c4</color2>
+    <link1>Inicio</link1>
+    <link2>Empresa</link2>
+    <link3>Servicios</link3>
+    <link4>Fugas</link4>
+    <link5>Contacto</link5>
+</general>

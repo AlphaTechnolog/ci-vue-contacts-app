@@ -1,0 +1,1 @@
+<home :contacts='<?php echo $contacts ?>'></home>

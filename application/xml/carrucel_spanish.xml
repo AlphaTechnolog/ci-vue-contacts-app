@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<carrucel>
+            <imagen1>panafugas1</imagen1>
+            <texto1>DETECCIÓN Y REPARACIÓN</texto1>
+            <texto2>CON CALIDAD Y PRECISIÓN</texto2>
+            <imagen1_smartphone>slider1_smartphone</imagen1_smartphone>
+            <texto1_smartphone>DETECCIÓN Y REPARACIÓN</texto1_smartphone>
+            <texto2_smartphone>CON CALIDAD Y PRECISIÓN</texto2_smartphone>
+            <imagen2>panafugas2</imagen2>
+            <texto3>&#xBF;TIENES UNA FUGA DE AGUA?</texto3>
+            <texto4>Nosotros nos encargamos</texto4>
+            <imagen2_smartphone>slider2_smartphone</imagen2_smartphone>
+            <texto3_smartphone>&#xBF;TIENES UNA FUGA DE AGUA?</texto3_smartphone>
+            <texto4_smartphone>Nosotros nos encargamos</texto4_smartphone>
+            <imagen3>panafugas3</imagen3>
+            <texto5>REPARAMOS FUGAS DE AGUA</texto5>
+            <texto6>SIN DEJAR RASTROS</texto6>
+            <imagen3_smartphone>slider3_smartphone</imagen3_smartphone>
+            <texto5_smartphone>REPARAMOS FUGAS DE AGUA</texto5_smartphone>
+            <texto6_smartphone>SIN DEJAR RASTROS</texto6_smartphone>
+            </carrucel>

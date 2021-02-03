@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<fugas>
+    <tit_fugas>¿ SOSPECHAS QUE TIENES UNA &#60;br&#62;FUGA DE AGUA ?</tit_fugas>
+    <sub_tit_fugas1>Señales que pueden indicar que hay una fuga de agua</sub_tit_fugas1>
+    <senal1>Sonido de agua corriendo o goteando &#60;br&#62;sin que se esté utilizando el tanque&#60;br&#62; del baño, la ducha, el fregadero,&#60;br&#62; entre otros.</senal1>
+    <senal2>Manchas húmedas en paredes,&#60;br&#62; pisos o techos.</senal2>
+    <senal3>Superficies blandas en paredes,&#60;br&#62; pisos o techos.</senal3>
+    <senal4>Aumento injustificado en el&#60;br&#62; recibo del agua.</senal4>
+    <senal5>Cambios bruscos en el contador&#60;br&#62; del medidor de agua.</senal5>
+    <tit_tipos_fugas>TIPOS DE FUGAS DE AGUA</tit_tipos_fugas>
+    <tipos_fugas1>VISIBLES</tipos_fugas1>
+    <det_tipos_fugas1>Se manifiestan en la superficie y pueden ser detectadas a simple vista. Son relativamente sencillas de reconocer.</det_tipos_fugas1>
+    <tipos_fugas2>RUIDOSAS</tipos_fugas2>
+    <det_tipos_fugas2>Son aquellas que pueden detectarse por el sonido que generan, como por ejemplo, goteos o agua corriendo.</det_tipos_fugas2>
+    <tipos_fugas3>SILENCIOSAS</tipos_fugas3>
+    <det_tipos_fugas3>No se aprecian visible ni acústicamente. Se detectan por aumentos injustificados en el recibo del agua o por movimientos inusuales en el marcador del medidor.</det_tipos_fugas3>
+    <tit_fugas_tecnologia>TECNOLOGÍA QUE UTILIZAMOS EN&#60;br&#62; LA DETECCIÓN DE FUGAS</tit_fugas_tecnologia>
+    <det_fugas_tecnologia>Utilizamos un equipo especializado para la detección de fugas de agua&#60;br&#62; por el método electro acústico, que permite detectar y localizar&#60;br&#62; con precisión los puntos de rotura de una red de agua.</det_fugas_tecnologia>
+</fugas>
