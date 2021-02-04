@@ -26,4 +26,11 @@ class Mcontacts extends CI_Model
         $this->db->query($sql);
         return json_encode(true);
     }
+    
+    public function delete($id)
+    {
+        $sql = 'DELETE FROM contacts WHERE id = ' . $id;
+        $this->db->query($sql);
+        return json_encode($sql);
+    }
 }

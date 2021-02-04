@@ -51,8 +51,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $route['default_controller'] = 'home';//'construccion';
 $route['default_controller'] = 'Home';
-$route['dev'] = 'home';
-$route['gi_admin'] = 'cadmin';
-$route['gi_admin_home'] = 'cadmin/admin';
+$route['add_contact'] = 'addContact';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

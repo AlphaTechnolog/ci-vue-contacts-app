@@ -3,7 +3,7 @@ Vue.component('add-contact-button', {
         <div class='text-right'>
             <a
                 class="btn btn-success"
-                :href='baseUrl + "index.php/addContact"'
+                :href='baseUrl + "add_contact"'
             >
                 Add contact
             </a>

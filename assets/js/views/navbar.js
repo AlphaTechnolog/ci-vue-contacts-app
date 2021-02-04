@@ -3,7 +3,7 @@ Vue.component('navbar', {
     <div>
       <div class='navbar navbar-dark bg-dark'>
         <div class="container-fluid">
-          <a :href='base_url + "index.php"' class='navbar-brand'>
+          <a :href='base_url' class='navbar-brand'>
             {{ msg }}
           </a>
         </div>

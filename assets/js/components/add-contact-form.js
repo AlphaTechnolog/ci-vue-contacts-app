@@ -2,6 +2,11 @@ Vue.component('add-contact-form', {
     template: html`
         <div>
             <div class="row">
+                <div class="col-sm-12" v-if='message !== ""'>
+                    <div class="alert alert-info">
+                        {{ message }}
+                    </div>
+                </div>
                 <div class="col-sm-12 col-md-6">
                     <div class="form-group">
                         <input
@@ -37,14 +42,32 @@ Vue.component('add-contact-form', {
             baseUrl: window.BASE_URL,
             name: '',
             phone: '',
+            message: '',
         }
     },
     methods: {
-        submit() {
+        checkData() {
+            return new Promise((resolve, reject) => {
+                if (this.name !== '' &&
+                    this.phone !== ''
+                ) {
+                    resolve();
+                } else {
+                    this.message = 'Invalid data';
+                }
+            });
+        },
+
+        async submit() {
+            await this.checkData();
+
             const url =
                 `${this.baseUrl}index.php/api/addContact/index/${this.name}/${this.phone}`
 
-            window.location = url;
+            const req = await fetch(url);
+            const res = await req.text();
+
+            this.message = res
         }
     }
 });

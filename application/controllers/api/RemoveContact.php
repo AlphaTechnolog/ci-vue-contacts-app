@@ -1,6 +1,6 @@
 <?php
 
-class AddContact extends CI_Controller
+class RemoveContact extends CI_Controller
 {
     public function __construct()
     {
@@ -8,10 +8,10 @@ class AddContact extends CI_Controller
         $this->load->database('default');
     }
 
-    public function index($name, $phone)
+    public function index($id)
     {
         $this->load->model('mcontacts');
-        $this->mcontacts->add($name, $phone);
-        echo "$name was added successfully!";
+        $this->mcontacts->delete($id);
+        echo "Contact deleted successfully";
     }
 }
